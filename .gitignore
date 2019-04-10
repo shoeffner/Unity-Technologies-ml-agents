@@ -1,3 +1,4 @@
+*.meta
 /UnitySDK/[Ll]ibrary/
 /UnitySDK/[Tt]emp/
 /UnitySDK/[Oo]bj/
