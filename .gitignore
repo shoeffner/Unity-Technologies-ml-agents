@@ -1,4 +1,3 @@
-*.meta
 /UnitySDK/[Ll]ibrary/
 /UnitySDK/[Tt]emp/
 /UnitySDK/[Oo]bj/
@@ -60,6 +59,12 @@
 /UnitySDK/Assets/ML-Agents/Plugins/System.Numerics*
 /UnitySDK/Assets/ML-Agents/Plugins/System.ValueTuple*
 
+<<<<<<< HEAD
+=======
+# Plugins
+/UnitySDK/Assets/ML-Agents/VideoRecorder*
+
+>>>>>>> 37d139af636e4a2351751fbf0f2fca5a9ed7457f
 # Generated doc folders
 /docs/html
 
@@ -84,7 +89,7 @@
 .DS_Store
 .ipynb_checkpoints
 
-# pytest cache 
+# pytest cache
 *.pytest_cache/
 
 # Ignore compiled protobuf files.
